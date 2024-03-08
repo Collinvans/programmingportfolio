@@ -20,3 +20,6 @@ OOP Graphical game with keyboard/mouse listeners.
 
 ### Pong game
 <img width="657" alt="Screenshot 2024-03-04 at 11 18 37 AM" src="https://github.com/Collinvans/programmingportfolio/assets/158333166/6cf5fb0c-1944-4d66-a40f-52d7a16811b8">
+
+### Brick Breaker Game
+<img width="790" alt="Screenshot 2024-03-08 at 12 36 11 PM" src="https://github.com/Collinvans/programmingportfolio/assets/158333166/b382fafd-e832-47b1-8757-c31cdca04ef4">
